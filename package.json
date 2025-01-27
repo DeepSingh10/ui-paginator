@@ -9,7 +9,7 @@
   "types": "types/ui-paginator.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DeepSingh10/ui-paginator.git"
+    "url": "git+https://github.com/DeepSingh10/ui-paginator.git"
   },
   "author": "Deep Singh Yadav",
   "license": "MIT"
