@@ -48,4 +48,3 @@ function makePage(number, text, isActive) {
   }
   
   module.exports = { getPages };
-  
