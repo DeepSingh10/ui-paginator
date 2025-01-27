@@ -1,0 +1,14 @@
+{
+  "name": "ui-paginator",
+  "version": "1.0.0",
+  "description": "ui-paginator is a lightweight and flexible JavaScript utility designed to simplify pagination in web applications. It provides a getPages function to generate paginated page structures, including support for ellipsis (\"...\") for large page ranges. Perfect for creating user-friendly pagination components in any JavaScript or Node.js project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Deep Singh Yadav",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
